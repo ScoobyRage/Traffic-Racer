@@ -1,0 +1,18 @@
+Base1(Parent): 
+        Position(0,0,0)
+        Rotation(0,0,0)
+        Scale(20,1,200)
+WallL1:
+        Position(0.525,4.5,0)
+        Rotation(0,0,0)
+        Scale(0.05,10,1)
+WallR1:
+        Position(-0.525,4.5,0)
+        Rotation(0,0,0)
+        Scale(0.05,10,1)
+
+Start_Base
+Width 100
+Length 400
+height 600
+tiles x 1 z 1 groupingid 0
